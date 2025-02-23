@@ -13,6 +13,6 @@
 - JavaScript
 <br>
 <br>
-<p>Segue o <a href="https://marcuvini21.github.io/Convert-money/">link</a> do projeto.</p>
+<p>Segue o <a href="https://marcuvini21.github.io/Portfolio/">link</a> do projeto.</p>
 
 <img src="https://github.com/Marcuvini21/Portfolio/blob/main/img/foto%20portfolio.png?raw=true">
