@@ -176,6 +176,30 @@ h1 {
     margin-bottom: 5px;
 }
 
+.habilidades-caixa{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.skill { 
+    height: 50px;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+    
+
+.skill:hover {
+    box-shadow: 0 10px 20px rgba(79, 70, 229, 0.2);
+    transform: translateY(-10px) scale(1.03);
+
+}
+
 .contatos {
     padding: 6rem 2rem;
 }
